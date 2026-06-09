@@ -3,3 +3,7 @@
 - Week_3 -> Direct COllocation transcription, optimized using CasADi NLP solver.
 - Week_4 -> Applying GCS based warm start and applying comparing that with week2 and week3 results
 - Week_5 -> Using local linearization methods and solving SCP. Testing the same method with and without GCS based warm starter.
+
+---
+
+[▶ Watch the animation](https://github.com/Jash-2000/Robotics_Optimization/blob/main/Robotics_Optimization_Animation.mp4)
